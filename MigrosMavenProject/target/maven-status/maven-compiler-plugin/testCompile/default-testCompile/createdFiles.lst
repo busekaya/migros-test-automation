@@ -1,0 +1,5 @@
+com/migrosWeb/test/pages/BasketPage.class
+com/migrosWeb/test/runner/TestRunner.class
+com/migrosWeb/test/pages/HomePage.class
+com/migrosWeb/test/stepdefs/Steps.class
+com/migrosWeb/test/main/BaseClass.class
